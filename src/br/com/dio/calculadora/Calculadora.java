@@ -36,6 +36,5 @@ public class Calculadora {
 	}
 	public static Double multiplicacao(Double a, Double b) {
 		return a * b;
-	}
-		
+	}		
 }
